@@ -1,7 +1,7 @@
 <h1 align="center">Genesis: Fake Data Generator</h1>
 
 ## What is it?
-Fake Data Generator designed to send data to multiple destinations such as "Kafka Topics", "Web API" &amp; "Files".
+Fake Data Generator designed to send data to multiple destinations such as "Kafka Topics", "Web API" , "Databases", &amp; "Files".
 More destinations will be added eventually if needed.
 
 ## Use Case
@@ -19,11 +19,20 @@ python generator.py
 ```
 You can creat new templates in "genesis/templates"
 
-## TODO Destinations
-
+## TODO 
+### Destinations
 - [x] Kafka Producer
+- [ ] Redis Databases
+- [ ] SQL Databases (SQLAlchemy)
 - [ ] File
 - [ ] Web API
+
+### Templates (You can create as much as you want)
+
+- [x] SMS
+- [ ] Orders
+- [ ] User Profile
+- [ ] Money Transactions
 
 ## License
 
