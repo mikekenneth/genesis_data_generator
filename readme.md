@@ -22,8 +22,8 @@ You can creat new templates in "genesis/templates"
 ## TODO Destinations
 
 - [x] Kafka Producer
-- [] File
-- [] Web API
+- [ ] File
+- [ ] Web API
 
 ## License
 
