@@ -44,4 +44,4 @@ See as you fit.
 
 ## Contact
 
-If you have any questions or would like to get in touch, please open an issue on Github or send me an email: <mike.kenneth47@gmail.com>
+If you have any questions or would like to get in touch, please open an issue on Github or send me an email: <mike.kenneth47@gmail.com> OR [twitter](https://twitter.com/mikekenneth77)
